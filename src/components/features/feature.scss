@@ -1,0 +1,165 @@
+.featuresDiv {
+    position: absolute;
+    width: 1520px;
+    height: 820px;
+    left: 0px;
+    top: 1040px;
+    background: #FFFFFF;
+    border-radius: 48px 48px 0px 0px;
+}
+
+
+.subtext {
+    position: absolute;
+    width: 172px;
+    height: 21px;
+    left: 248px;
+    top: 1210px;
+    
+}
+
+.solution {
+    /* Our solution for you */
+
+    position: absolute;
+    height: 116px;
+    width: 421px;
+    left: 248px;
+    right: 771px;
+    top: 215px;
+
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 58px;
+    letter-spacing: 0.8px;
+
+    color: #000000;
+}
+
+.selfService {
+    /* We are self-service */
+
+    position: absolute;
+    left: 55.91%;
+    right: 0%;
+    top: 26.72%;
+    bottom: 6.03%;
+    width: 384px;
+    height: 78px;
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    letter-spacing: 0.24px;
+
+    color: #3B3A40;
+}
+
+.analyzeSvg {
+    position: absolute;
+    width: 416px;
+    height: 125px;
+    left: 248px;
+    top: 400px;
+}
+
+.analyze {
+    position: absolute;
+    height: 29px;
+    left: 29.81%;
+    right: 19.71%;
+    top: calc(50% - 29px/2 - 48px);
+
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 29px;
+    /* identical to box height */
+
+    letter-spacing: 0.45px;
+
+    color: #3B3A40;
+
+}
+
+.createRepTxt {
+    /* Create reports with */
+
+
+    position: absolute;
+    left: 29.81%;
+    right: 0%;
+    top: 28.8%;
+    bottom: 26.4%;
+
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 156% */
+
+    letter-spacing: 0.27px;
+
+    color: #64626A;
+}
+
+.learn1 {
+    position: absolute;
+    height: 17px;
+    left: 30%;
+    right: 17.78%;
+    top: calc(90% - 17px/2);
+
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+
+    /* identical to box height */
+    text-decoration: none;
+
+    color: #1E5579;
+}
+
+.chevron1 {
+    position: absolute;
+    height: 17px;
+    left: 52%;
+    right: 17.78%;
+    top: calc(90% - 17px/2);
+
+}
+
+
+.collaborate {
+    position: absolute;
+    width: 416px;
+    height: 125px;
+    left: 800px;
+    top: 400px;
+}
+
+.embedded {
+    position: absolute;
+    width: 416px;
+    height: 125px;
+    left: 800px;
+    top: 599px;
+}
+
+
+.intutive {
+    position: absolute;
+    width: 416px;
+    height: 125px;
+    left: 248px;
+    top: 599px;
+    text-decoration: none;
+}

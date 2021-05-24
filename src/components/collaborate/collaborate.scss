@@ -1,0 +1,94 @@
+.main {
+    position: absolute;
+    width: 1085px;
+    height: 471px;
+    left: 151px;
+    top: 3616px;
+
+    .colGraph {
+        height: 431px;
+        width: 456px;
+        left: 151px;
+        top: 3616px;
+        border-radius: 0px;
+    }
+
+    .group16 {
+        height: 471px;
+        width: 500px;
+        left: 736px;
+        top: 3616px;
+        border-radius: 0px;
+    }
+
+    .subtextCollaborate {
+        height: 21px;
+        width: 199px;
+        left: 736px;
+        top: 3616px;
+        border-radius: 0px;
+        margin-left: 12rem;
+    }
+
+}
+
+.flexbox-container2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px
+}
+
+.flexbox-container3 {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+
+}
+
+.collabSectionTitleDiv {
+    height: 274px;
+    width: 500px;
+    left: 736px;
+    top: 3661px;
+    border-radius: 0px;
+    padding-left: 12rem;
+    padding-top: 3rem;
+
+    .collabTextHead {
+        /* Collaborate with you */
+        width: auto;
+        font-family: Aileron;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 48px;
+        line-height: 58px;
+        letter-spacing: 0.8px;
+
+        color: #000000;
+    }
+
+    .ttext {
+        font-family: Aileron;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 28px;
+        letter-spacing: 0.27000001072883606px;
+        text-align: left;
+
+    }
+
+    .ticktext {
+        /* Organize your data */
+        font-family: Aileron;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 12px;
+        line-height: 19px;
+        letter-spacing: 0.3px;
+        margin: 0;
+        color: #3B3A40;
+
+    }
+}

@@ -1,0 +1,401 @@
+.Pricing {
+    position: absolute;
+    width: 1138px;
+    height: 760px;
+    left: 151px;
+    top: 5087px;
+}
+
+.sectionHead {
+    /* Choose the plan that */
+
+    position: absolute;
+    height: 116px;
+    left: 20%;
+    right: 28%;
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    letter-spacing: 0.8px;
+    color: #000000;
+}
+
+.free {
+    /* 30-day free trial, c */
+
+    position: absolute;
+    left: 20%;
+    right: 0%;
+    top: 18.17%;
+    bottom: 31.06%;
+    height: 30px;
+    width: 676px;
+
+    border-radius: nullpx;
+
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    letter-spacing: 0.3px;
+
+    color: #3B3A40;
+
+
+}
+
+.bill1 {
+    /* Bill Monthly */
+
+    position: absolute;
+    height: 30px;
+    left: 32%;
+    right: 74.49%;
+    top: calc(27% - 30px/2 - 0.5px);
+
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    /* identical to box height, or 167% */
+    width: 100px;
+    letter-spacing: 0.2px;
+
+    color: #64626A;
+
+
+}
+
+.switcher {
+    position: absolute;
+    height: 30px;
+    left: 42%;
+    right: 74.49%;
+    top: calc(27% - 30px/2 - 0.5px);
+
+}
+
+.annualy {
+    position: absolute;
+    height: 30px;
+    left: 48%;
+    right: 74.49%;
+    top: calc(27% - 30px/2 - 0.5px);
+
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    /* identical to box height, or 167% */
+    width: 100px;
+    letter-spacing: 0.2px;
+
+    color: #64626A;
+}
+
+.save {
+    position: absolute;
+    height: 30px;
+    left: 58%;
+    right: 74.49%;
+    top: calc(27% - 30px/2 - 0.5px);
+}
+
+.price1 {
+    position: absolute;
+    height: 479px;
+    width: 358px;
+    left: 0px;
+    top: 281px;
+    border-radius: 12px;
+
+    background: #FFEDB6;
+    border-radius: 12px;
+}
+
+.price2 {
+    position: absolute;
+    height: 479px;
+    width: 358px;
+    left: 30%;
+    top: 281px;
+    border-radius: 12px;
+
+    background: #D1E8FF;
+    border-radius: 12px;
+}
+
+.price3 {
+    position: absolute;
+    height: 479px;
+    width: 358px;
+    left: 60%;
+    top: 281px;
+    border-radius: 12px;
+
+    background: #1E5579;
+    border-radius: 12px;
+}
+
+.flexbox-container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.flexbox-container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.btn1 {
+    height: 48px;
+    width: 310px;
+    position: absolute;
+    left: 6.7%;
+    right: 6.7%;
+    top: 85.97%;
+    bottom: 5.01%;
+    text-align: center;
+    background: #FFFFFF;
+    box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.12);
+    border-radius: 8px;
+}
+
+.textt {
+    margin-top: 4%;
+    font-family: Aileron;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0.20000000298023224px;
+    text-decoration: none;
+}
+
+.dollar {
+    position: absolute;
+    height: 58px;
+    left: 6.7%;
+    right: 67.6%;
+    top: calc(50% - 58px/2 - 186.5px);
+
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 58px;
+    /* identical to box height */
+
+    letter-spacing: 0.8px;
+
+    color: #EDB300;
+
+}
+
+.month {
+    position: absolute;
+    height: 24px;
+    left: 28.92%;
+    right: 51.96%;
+    top: calc(50% - 24px/2 - 186.5px);
+
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+
+    letter-spacing: 0.175px;
+
+    color: #64626A;
+}
+.month2 {
+    position: absolute;
+    height: 24px;
+    left: 35.92%;
+    right: 51.96%;
+    top: calc(50% - 24px/2 - 186.5px);
+
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+
+    letter-spacing: 0.175px;
+
+    color: #64626A;
+}
+.standart {
+    position: absolute;
+    height: 22px;
+    left: 6.7%;
+    right: 70.39%;
+    top: calc(50% - 22px/2 - 130.5px);
+
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    letter-spacing: 0.3375px;
+
+    color: #3B3A40;
+}
+
+.s1 {
+    position: absolute;
+    height: 48px;
+    left: 6.7%;
+    right: 29.33%;
+    top: calc(50% - 48px/2 - 88.5px);
+
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+
+    letter-spacing: 0.175px;
+
+    color: #64626A;
+}
+
+.line {
+
+    position: absolute;
+    left: 6.7%;
+    right: 0%;
+    top: 41.54%;
+    bottom: 58.25%;
+
+    background: #000000;
+    mix-blend-mode: normal;
+    opacity: 0.08;
+}
+
+.tick1 {
+    top: 48.97%;
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    left: 5%;
+    border-radius: 0px;
+}
+
+.line1 {
+    position: absolute;
+    height: 26px;
+    left: 19.16%;
+    right: 0%;
+    top: calc(50% - 26px/2);
+
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.2px;
+
+    color: #64626A;
+}
+.tick2 {
+    top: 55.97%;
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    left: 5%;
+    border-radius: 0px;
+}
+
+.line2 {
+    position: absolute;
+    height: 26px;
+    left: 19.16%;
+    right: 0%;
+    top: calc(58% - 26px/2);
+
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.2px;
+
+    color: #64626A;
+}
+.tick3 {
+    top: 62.97%;
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    left: 5%;
+    border-radius: 0px;
+}
+
+.line3 {
+    position: absolute;
+    height: 26px;
+    left: 19.16%;
+    right: 0%;
+    top: calc(65% - 26px/2);
+
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.2px;
+
+    color: #64626A;
+}
+.tick4 {
+    top: 69.97%;
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    left: 5%;
+    border-radius: 0px;
+}
+
+.line4 {
+    position: absolute;
+    height: 26px;
+    left: 19.16%;
+    right: 0%;
+    top: calc(72% - 26px/2);
+
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.2px;
+
+    color: #64626A;
+}
+@media screen and (max-width:768px) {
+    
+}

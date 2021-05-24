@@ -1,0 +1,85 @@
+.flexbox-container {
+    display: flex;
+    flex-direction: row;
+    margin: 65px;
+}
+
+.moreFeatures {
+    position: absolute;
+    width: 1041px;
+    height: 741px;
+    left: 151px;
+    top: 2675px;
+}
+
+.featuresExplain {
+    /* We're more than an a */
+
+    height: 174px;
+    width: 748px;
+    left: 0px;
+    top: 45px;
+    padding-left: 2.5rem;
+    border-radius: nullpx;
+    padding-top: 40px;
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 58px;
+    letter-spacing: 0.8px;
+
+    color: #000000;
+
+
+}
+.sectionTitle {
+    height: 219px;
+    width: 748px;
+    left: 152px;
+    top: 2675px;
+    border-radius: 0px;
+
+}
+.ddiv {
+    height: 78px;
+    width: 261px;
+    left: 0px;
+    top: 113px;
+    border-radius: nullpx;
+    font-family: Aileron;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    margin-right: 3rem;
+}
+
+.head {
+    padding-top: 10px;
+    font-family: Aileron;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0.3375000059604645px;
+    text-align: left;
+
+}
+
+.subtext {
+    position: absolute;
+    left: 0%;
+    right: 70.59%;
+    top: 0%;
+    bottom: 90.41%;
+    padding-left:4rem;
+}
+@media screen and (max-width:768px) {
+    .flexbox-container{
+
+        display:block;
+    }
+}

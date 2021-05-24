@@ -1,0 +1,132 @@
+.footer {
+    /* #Footer */
+    position: absolute;
+    height: 405px;
+    width: 1440px;
+    left: 2.5%;
+    top: 5967px;
+    border-radius: 0px;
+}
+
+.footerimg {
+    position: absolute;
+    width: 108.06px;
+    height: 30.11px;
+    left: 150px;
+    top: 97px;
+}
+
+.footerProduct {
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0px;
+    text-align: left;
+    position: absolute;
+    height: 170px;
+    left: 45%;
+    right: 0%;
+    top: calc(50% - 170px/2 + 18px);
+    text-decoration: none;
+
+}
+
+.footerServices {
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0px;
+    text-align: left;
+    position: absolute;
+    height: 170px;
+    left: 55%;
+    right: 0%;
+    top: calc(50% - 170px/2 + 18px);
+    text-decoration: none;
+    /* or 243% */
+}
+
+.footerCompany {
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0px;
+    text-align: left;
+    position: absolute;
+    height: 170px;
+    left: 65%;
+    right: 0%;
+    top: calc(50% - 170px/2 + 18px);
+    text-decoration: none;
+}
+
+.footerMore {
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0px;
+    text-align: left;
+    position: absolute;
+    height: 170px;
+    left: 75%;
+    right: 0%;
+    top: calc(50% - 170px/2 + 18px);
+    text-decoration: none;
+}
+
+.footerHead {
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: #3B3A40;
+    padding-bottom: 10px;
+}
+
+.twitter {
+    position: absolute;
+    left: 150px;
+    top: 156px
+}
+
+.facebook {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 190px;
+    top: 156px;
+
+}
+
+.linkedIn {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 230px;
+    top: 156px;
+}
+
+.ff {
+    position:absolute;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0px;
+    text-align: left;
+    height: 15px;
+    left: 10.42%;
+    right: 84.24%;
+    top: calc(50% - 15px/2 + 85px);
+}

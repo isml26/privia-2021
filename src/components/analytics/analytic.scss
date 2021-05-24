@@ -1,0 +1,119 @@
+.Group19 {
+  position: absolute;
+  width: 530px;
+  height: 473px;
+  left: 736px;
+  top: 2002px;
+
+  /* Analyze your data wi */
+  .text1 {
+    position: absolute;
+    height: 116px;
+    left: 0%;
+    right: 0%;
+    top: calc(50% - 116px/2 - 50px);
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 58px;
+    letter-spacing: 0.8px;
+    color: #000000;
+  }
+
+  .text2 {
+    /* Self-service data an */
+    position: absolute;
+    left: 0%;
+    right: 22.64%;
+    top: 55.11%;
+    bottom: 0%;
+    font-family: Aileron;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 156% */
+    letter-spacing: 0.27px;
+    color: #3B3A40;
+  }
+
+  .itemAnalyze {
+    position: absolute;
+    width: 296px;
+    height: 78px;
+    left: 736px;
+    top: 2295px;
+  }
+
+  .powerfuldb {
+    /* Self-service data an */
+    position: absolute;
+    left: 0%;
+    right: 22.64%;
+    top: 65.11%;
+    bottom: 0%;
+    /* or 156% */
+    letter-spacing: 0.27px;
+    color: #3B3A40;
+  }
+
+  .combine {
+    /* Combine multiple rep */
+    position: absolute;
+    left: 0%;
+    right: 22.64%;
+    top: 69.11%;
+    bottom: 0;
+  }
+
+  .always {
+    position: absolute;
+    left: 0%;
+    right: 22.64%;
+    top: 81.11%;
+    bottom: 0;
+  }
+
+  .analy {
+    position: absolute;
+    height: 116px;
+    left: 0%;
+    right: 0%;
+    top: calc(42% - 116px/2 - 50px);
+  }
+}
+
+.analyGraph {
+  position: absolute;
+  width: 539.74px;
+  height: 453.96px;
+  left: 91px;
+  top: 2000.04px;
+}
+
+@media screen and (max-width:768px) {
+  .Group19 {
+    display: block;
+    width: 603px;
+  }
+
+  .analyGraph {
+
+    position: absolute;
+    width: 485.76px;
+    height: 408.57px;
+    left: 56%;
+    top: 1715.03px;
+    top: 2170px;
+  }
+
+  .Group19 {
+    position: absolute;
+    width: 603px;
+    height: 303px;
+    left: 56%;
+    top: 1830px;
+    padding:5% ;
+  }
+}
