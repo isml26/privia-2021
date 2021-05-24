@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
--Privia homepage react app
+-Privia homepage using react and scss 
 
 ## Available Scripts
 
